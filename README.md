@@ -1,2 +1,3 @@
-# ragynotes
+# 🌱 ragynotes 🌿
+
 collections of notes
