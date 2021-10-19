@@ -1,3 +1,3 @@
 # 🌱 ragynotes 🌿
 
-collections of notes
+[I live here now](https://ragynotes.github.io/)
